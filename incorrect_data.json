@@ -1,0 +1,91 @@
+[
+    {
+        "data": {
+            "ID": NaN,
+            "Name": "Employee 1",
+            "DateOfBirth": "1969-01-13",
+            "PhoneNumber": "966-661-1036"
+        },
+        "issues": [
+            "Contains null values"
+        ]
+    },
+    {
+        "data": {
+            "ID": 2.0,
+            "Name": "Employee 2",
+            "DateOfBirth": null,
+            "PhoneNumber": "690-129-9939"
+        },
+        "issues": [
+            "Contains null values",
+            "Invalid date format"
+        ]
+    },
+    {
+        "data": {
+            "ID": 3.0,
+            "Name": "Employee 3",
+            "DateOfBirth": "1975-100-13",
+            "PhoneNumber": "886-434-9430"
+        },
+        "issues": [
+            "Invalid date format"
+        ]
+    },
+    {
+        "data": {
+            "ID": 4.0,
+            "Name": "Employee 4",
+            "DateOfBirth": "1982-10-12",
+            "PhoneNumber": "854-172-5978867"
+        },
+        "issues": [
+            "Invalid phone number format"
+        ]
+    },
+    {
+        "data": {
+            "ID": 5.0,
+            "Name": "Employee 5",
+            "DateOfBirth": "1962-03-08",
+            "PhoneNumber": "790-540-488845"
+        },
+        "issues": [
+            "Invalid phone number format"
+        ]
+    },
+    {
+        "data": {
+            "ID": NaN,
+            "Name": "Employee 6",
+            "DateOfBirth": "1961-04-15",
+            "PhoneNumber": "527-923-4339"
+        },
+        "issues": [
+            "Contains null values"
+        ]
+    },
+    {
+        "data": {
+            "ID": 7.0,
+            "Name": "Employee 7",
+            "DateOfBirth": "01-01-1993",
+            "PhoneNumber": "268-704-8373"
+        },
+        "issues": [
+            "Invalid date format"
+        ]
+    },
+    {
+        "data": {
+            "ID": NaN,
+            "Name": "Employee 8",
+            "DateOfBirth": "1955-10-05",
+            "PhoneNumber": "494-523-9746"
+        },
+        "issues": [
+            "Contains null values"
+        ]
+    }
+]
